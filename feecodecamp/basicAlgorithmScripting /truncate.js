@@ -1,11 +1,10 @@
-function truncatestring(str, num) {
-  var svar = "";
-  if (str.length > num) {
-    svar = (str.slice(0,num-3)+ "...");
-    console.log(svar);
-  }else {
-    console.log(str);
-  }
-
+function truncatestring(str,num) {
+  if (str.length > num && num > 3) {
+   console.log(str.slice(0, (num - 3)) + '...');
+ } else if (str.length > num && num <= 3) {
+   console.log(str.slice(0, num) + '...');
+ } else {
+   console.log(str);
+ }
 }
-truncatestring("A-tisket a-tasket A green and yellow baske", 11);
+truncatestring("jag heter redwan yasin", 3);
