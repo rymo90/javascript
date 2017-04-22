@@ -1,57 +1,56 @@
 var Best_quotes = [
   {
   "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
-  "writer":"—Ellen Parr",
+  "writer":"—Ellen Parr"
 },
   {
   "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
-  "writer":"—Antoine de Saint-Exupéry",
+  "writer":"—Antoine de Saint-Exupéry"
 },
   {
   "quote": "The richest man is not he who has the most, but he who needs the least",
-  "writer":"—Unknown Author",
+  "writer":"—Unknown Author"
 },
   {
   "quote": "You must be the change you wish to see in the world.",
-  "writer":"—Gandhi",
+  "writer":"—Gandhi"
 },
   {
   "quote": "When hungry, eat your rice; when tired, close your eyes. Fools may laugh at me, but wise men will know what I mean. ",
-  "writer":"—Lin-Chi",
+  "writer":"—Lin-Chi"
 },
   {
   "quote": "To the man who only has a hammer, everything he encounters begins to look like a nail.",
-  "writer":"—Abraham Maslow",
+  "writer":"—Abraham Maslow"
 },
   {
   "quote": "We are what we repeatedly do; excellence, then, is not an act but a habit.",
-  "writer":"—Aristotle",
+  "writer":"—Aristotle"
 },
   {
   "quote": "Before I got married I had six theories about bringing up children; now I have six children and no theories.",
-  "writer":"—John Wilmot",
+  "writer":"—John Wilmot"
 },
   {
   "quote": "The person who reads too much and uses his brain too little will fall into lazy habits of thinking.",
-  "writer":"—Albert Einstein",
+  "writer":"—Albert Einstein"
 },
   {
   "quote": "Don’t ever wrestle with a pig. You’ll both get dirty, but the pig will enjoy it.",
-  "writer":"—Cale Yarborough",
+  "writer":"—Cale Yarborough"
 },  {
   "quote": "If the lessons of history teach us anything it is that nobody learns the lessons that history teaches us.",
-  "writer":"—Anon",
+  "writer":"—Anon"
 },    {
   "quote": "When a person can no longer laugh at himself, it is time for others to laugh at him.",
-  "writer":"—Thomas Szasz",
+  "writer":"—Thomas Szasz"
 },  {
-  "quote": "Imagination was given to man to compensate him for what he is
-  not, and a sense of humor was provided to console him for what he is.",
-  "writer":"—Oscar Wilde",
+  "quote": "Imagination was given to man to compensate him for what he is not, and a sense of humor was provided to console him for what he is.",
+  "writer":"—Oscar Wilde"
 },  {
   "quote": "Some people like my advice so much that they frame it upon the wall instead of using it.",
-  "writer":"—Gordon R. Dickson",
-},
+  "writer":"—Gordon R. Dickson"
+}
 
 
 ]
