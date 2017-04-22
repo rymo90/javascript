@@ -38,19 +38,24 @@ var Best_quotes = [
   {
   "quote": "Don’t ever wrestle with a pig. You’ll both get dirty, but the pig will enjoy it.",
   "writer":"—Cale Yarborough"
-},  {
+},
+  {
   "quote": "If the lessons of history teach us anything it is that nobody learns the lessons that history teaches us.",
   "writer":"—Anon"
-},    {
+},   
+  
+  {
   "quote": "When a person can no longer laugh at himself, it is time for others to laugh at him.",
   "writer":"—Thomas Szasz"
-},  {
+},
+  
+  {
   "quote": "Imagination was given to man to compensate him for what he is not, and a sense of humor was provided to console him for what he is.",
   "writer":"—Oscar Wilde"
-},  {
+}, 
+  {
   "quote": "Some people like my advice so much that they frame it upon the wall instead of using it.",
   "writer":"—Gordon R. Dickson"
 }
-
 
 ]
