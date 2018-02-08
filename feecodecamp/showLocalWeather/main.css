@@ -1,0 +1,9 @@
+body{
+  background-color: white;
+}
+.container{
+text-align: center;
+text-decoration-color: red;
+background-color: white;
+list-style-type: none;
+}
