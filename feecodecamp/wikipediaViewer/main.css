@@ -1,0 +1,22 @@
+body{
+  background: white;
+
+}
+.container{
+  text-align: center;
+}
+#parent{
+  background-color: inherit;
+}
+#headlines{
+  text-transform: capitalize;
+}
+#paragraph{
+  text-transform: capitalize;
+}
+.second{
+  background-image: url('https://realkm.com/wp-content/uploads/2016/05/Wikipedia-logo-v2.png');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background: red;
+}
